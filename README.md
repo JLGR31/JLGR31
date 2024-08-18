@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge González</h1>
-<h3 align="center">A frontend development student from Seville</h3>
+<h3 align="center">A front-end development student from Seville</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlgr31&label=Profile%20views&color=0e75b6&style=flat" alt="jlgr31" /> </p>
 
